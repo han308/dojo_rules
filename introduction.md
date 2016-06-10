@@ -1,2 +1,10 @@
 I'm Jack.
-I love Ruby and JavaScript!
+I love JavaScript!
+*
+HTML
+CSS
+JQuery
+Java
+C#
+C
+C++
